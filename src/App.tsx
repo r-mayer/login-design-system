@@ -39,7 +39,7 @@ export function App() {
             <SocialButton social='fb'></SocialButton>
           </div>
           <div className='mb-4'>
-            <Text size='sm'>Não tem uma conta? <span className='font-bold'>Crie uma agora</span></Text>
+            <Text size='sm'>Não tem uma conta? Crie uma agora</Text>
           </div>
         </div>
       </div>
